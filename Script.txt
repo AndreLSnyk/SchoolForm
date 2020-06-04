@@ -1,0 +1,13 @@
+var result = [];
+
+document.getElementById(‘last_2’).value = ‘FIRST NAME;”
+document.getElementById(‘first_2’).value =‘LAST NAME’;”
+document.getElementById('input_9').value =‘YOU’ID;”
+document.getElementById('input_10').value ='AGE’;
+document.getElementById('input_1').value ='ג3';
+document.getElementById('input_12').value ='נורית';
+document.getElementById('last7').value = 'YOUR NAME’;
+document.getElementById(‘first_7’).value =‘SURNAME’;
+document.getElementById('input_15').value ='PHONE’;
+
+completion(result);
